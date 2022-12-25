@@ -3,7 +3,8 @@ public class NumberGame {
     public static void main(String [] args) {
         int randomNumber = (int) (Math.random() * 100) + 1;
         boolean hasWon = false;
-        
+
+        // test my commit; permission denied -> public key
         System.out.println("I have randomly chosen a number between 1 and 100");
         System.out.println("Try to get it");
         
